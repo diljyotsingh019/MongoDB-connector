@@ -4,7 +4,7 @@ from typing import List
 with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
   
-__version__ = "0.0.4"
+__version__ = "0.0.6"
 REPO_NAME = "MongoDB-connector"
 PKG_NAME= "test-mongo-connector"
 AUTHOR_USER_NAME = "diljyotsingh019"
